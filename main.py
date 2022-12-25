@@ -18,7 +18,7 @@ while True:
     menu.GetValueFromInput("->")()
     input("Нажмите Enter для продолжения ")
     clear()
-
+# конец файла
 
 
 
